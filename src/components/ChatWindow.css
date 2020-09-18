@@ -64,6 +64,7 @@
 
 .chatWindow--pre{
     display: flex;
+    margin: 0 15px;
 }
 
 .chatWindow--inputarea{
@@ -84,4 +85,5 @@
 
 .chatWindow--pos{
     display: flex;
+    margin: 0 15px;
 }
